@@ -1,4 +1,4 @@
-#!/usr/env/bin bash
+#!/usr/bin/env bash
 # install.sh - installs pywal-to-glance.sh from bash-scripts repo
 
 echo "Installing pywal-to-glance.sh..."
