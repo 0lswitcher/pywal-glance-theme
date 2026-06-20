@@ -38,12 +38,17 @@ pywal-glance-theme/
 ```
 
 ## Installation
+> [!NOTE]
+> The actual script used here is held within my [bash scripts repository](https://github.com/0lswitcher/bash-scripts), and you can
+> find it under `pywal-to-glance.sh`. \
+> Feel free to take a look at it there to see the actual source code instead of the lil `install.sh` I have here. 
+
 There are two methods for installing this script;
 > - cURL and run the install script (which automatates the following option)
 > 
 *OR:*
 
-> - cURL the source script from my bash-scripts repository, and make it executable
+> - cURL the source script from my [bash scripts repository](https://github.com/0lswitcher/bash-scripts), and make it executable
 
 Either method is viable, and the choice is a matter of preference.
 
