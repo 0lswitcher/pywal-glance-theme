@@ -7,8 +7,8 @@ curl -sLO https://raw.githubusercontent.com/0lswitcher/bash-scripts/refs/heads/m
 echo "Updating execution permissions..."
 chmod +x ./pywal-glance-theme.sh
 
-echo "Moving script to /usr/local/bin..."
+echo "Moving script to ~/.local/bin..."
 echo "Feel free to relocate!"
-mv ./pywal-glance-theme.sh /usr/local/bin/
+mkdir -p ~/.local/bin && mv ./pywal-glance-theme.sh ~/.local/bin/
 
 echo "Installation complete!"
