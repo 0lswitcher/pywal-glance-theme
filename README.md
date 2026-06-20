@@ -63,16 +63,16 @@ curl -fsSL https://raw.githubusercontent.com/0lswitcher/pywal-glance-theme/refs/
 ### Method 2: (More involved)
 Download the script:
 ```
-curl -sLO https://raw.githubusercontent.com/0lswitcher/bash-scripts/refs/heads/main/scripts/pywal-glance-theme.sh
+curl -sLO https://raw.githubusercontent.com/0lswitcher/bash-scripts/refs/heads/main/scripts/pywal-to-glance.sh
 ```
 Then, make it executable:
 ```
-chmod +x ./pywal-glance-theme.sh
+chmod +x ./pywal-to-glance.sh
 ```
 That's it! \
 Now, you can move it to another directory of your choosing:
 ```
-mv ./pywal-glance-theme.sh /usr/local/bin/
+mv ./pywal-to-glance.sh /usr/local/bin/
 ```
 > Feel free to replace `/usr/local/bin/` with whatever you prefer.
 
