@@ -15,7 +15,7 @@
 <h1 align="center">Pywal Glance Theme</h1>
 
 <p align="center">
-  Pywal theme for Glance. (the self-hosted server dashboard)<br>
+  Pywal theme for <a href="https://github.com/glanceapp/glance">Glance</a>. (the self-hosted server dashboard)<br>
   All code is licensed under the <a href="LICENSE">Unlicense License</a>. (do whatever u want idc)
 </p>
 
@@ -39,7 +39,8 @@ pywal-glance-theme/
 
 ## Installation
 > [!NOTE]
-> The actual script used here is held within my [bash scripts repository](https://github.com/0lswitcher/bash-scripts), and you can
+> The actual script used here is held within \
+> my [bash scripts repository](https://github.com/0lswitcher/bash-scripts), and you can
 > find it under `pywal-to-glance.sh`. \
 > Feel free to take a look at it there to see the actual source code instead of the lil `install.sh` I have here. 
 
