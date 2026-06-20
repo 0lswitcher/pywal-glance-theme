@@ -96,7 +96,7 @@ It's set up in a way that you don't have to copy the title exactly if you have \
 difficult to recognize characters, it just needs a part of your title to work.
 
 This is useful for when you use things like emojis before your titles like I do.
-> Ex. ":black_joker: NeoDash" gets picked up as "NeoDash" without failing due to the emoji.
+> Ex. "🃏 NeoDash" gets picked up as "NeoDash" without failing due to the emoji.
 
 And that's it!
 
