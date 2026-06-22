@@ -25,6 +25,13 @@
 > Preview w/o blur
 ![Opaque Pywal Glance Preview](md-assets/pywal-glance-preview-opaque.gif)
 
+<div align="center">
+<br>
+<a href="#installation"><kbd>&emsp;<br>&emsp;Installation&emsp;<br>&emsp;</kbd></a>&ensp;&ensp;
+<a href="#usage"><kbd>&emsp;<br>&emsp;Usage&emsp;<br>&emsp;</kbd></a>&ensp;&ensp;
+<a href="#license"><kbd>&emsp;<br>&emsp;License&emsp;<br>&emsp;</kbd></a>&ensp;&ensp;
+<a href="#contributing"><kbd>&emsp;<br>&emsp;Contributing&emsp;<br>&emsp;</kbd></a>&ensp;&ensp;
+</div>
 
 ## Repository Structure
 ```
@@ -36,6 +43,8 @@ pywal-glance-theme/
 ├── LICENSE -------------------------------- License for the repo
 └── README.md ------------------------------ Main README for the repo
 ```
+
+<a id="installation"></a>
 
 ## Installation
 > [!NOTE]
@@ -75,6 +84,8 @@ Now, you can move it to another directory of your choosing:
 mv ./pywal-to-glance.sh /usr/local/bin/
 ```
 > Feel free to replace `/usr/local/bin/` with whatever you prefer.
+
+<a id="usage"></a>
 
 ## Usage
 Usage is simple, and I've written the script to be compatable with as many distro's and WM's possible. \
@@ -120,8 +131,12 @@ with `SSHFS` instead of temporarily accessing w/ `SFTP` so that the script can r
 > If you're on Wayland-you're all set. \
 > Otherwise, I recommend installing `xdotool` if you want seamless refreshing!
 
+<a id="license"></a>
+
 ## License
 This repository is licensed under the [Unlicense License](LICENSE). (do whatever u want idc)
+
+<a id="contributing"></a>
 
 ## Contributing
 1. Fork the repo  
